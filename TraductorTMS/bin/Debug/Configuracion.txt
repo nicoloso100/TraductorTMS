@@ -1,0 +1,34 @@
+dd mm aa hh nn     eee tt ######################            uu
+bbb eee aammdd hh>nn uuuu.u cccccccccccccccccccc ############### llllllll rrrrrrrr iiiiiiii vvvvvvvv zzz
+a-i
+m-d
+d-i
+h-i
+n-d
+e-d
+b-d
+t-i
+#-i
+u-i
+l-i
+r-d
+i-d
+w-d
+v-d
+k-d
+z- 
+Seleccionar
+000
+
+
+L
+L
+L
+L
+L
+1200
+NONE
+NONE
+8
+NONE
+FALSE
